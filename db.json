@@ -1,86 +1,73 @@
-[
-    {
+[{
         id: 1,
         title: "Fulde navn",
         value: "Allan Rasmussen",
         type: "text",
         label: ""
-      },
-      {
+      }, {
         id: 2,
         title: "Email",
         value: "asr@indicia.dk",
         type: "email",
         label: ""
-      },
-      {
+      }, {
         id: 3,
         title: "Initials",
         value: "ASR", 
         type: "text",
         label: ""
-      },
-      {
+      }, {
         id: 4,
         title: "UI Language",
         value: "English", 
         type: "select",
         label: ""
-      },
-      {
+      }, {
         id: 5,
         title: "Enable email alert",
         value: false, 
         type: "checkbox",
         label: "New Message Alerts"
-      },
-      {
+      }, {
         id: 6,
         title: "Refresh Time",
         value: "0", 
         type: "text",
         label: "seconds"
-      },
-      {
+      }, {
         id: 7,
         title: "Telephone - Direct",
         value: "", 
         type: "text",
         label: ""
-      },
-      {
+      }, {
         id: 8,
         title: "Telephone - Mobile",
         value: "", 
         type: "text",
         label: ""
-      },
-      {
+      }, {
         id: 9,
         title: "Job Title",
         value: "Developer", 
         type: "text",
         label: ""
-      },
-      {
+      }, {
         id: 10,
         title: "Department",
         value: "Graphics/Frontend", 
         type: "text",
         label: ""
-      },
-      {
+      }, {
         id: 11,
         title: "",
         value: "Save", 
         type: "button",
         label: ""
-      },
-      {
+      }, {
         id: 12,
         title: "",
         value: "Cancel", 
         type: "button",
         label: ""
-    }
-]
+}]
